@@ -1,2 +1,10 @@
 hello world
+<<<<<<< HEAD
 i am yamuna
+=======
+hello world
+hello world
+hello world
+hello world
+hello world
+>>>>>>> 0c375e60c9dcc588f0040e1ae0f193d4ab47cf34
